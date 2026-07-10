@@ -28,7 +28,8 @@ const jumanah = {
     "Arduino & Embedded Systems",
     
   ],
- goal: "To design and develop innovative software and hardware solutions while continuously improving my skills in Computer Engineering."
+ goal: "To design and develop innovative software and hardware
+solutions while continuously improving my skills in Computer Engineering."
 }
 ```
 
